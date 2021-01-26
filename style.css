@@ -1,0 +1,15 @@
+body{
+    padding: 100px;
+}
+#transaction-area{
+    display: none;
+}
+.deposit{
+    background:#6A5ACD ;
+}
+.withdraw{
+    background: #FFA07A;
+}
+.balance{
+    background: orange;
+}
